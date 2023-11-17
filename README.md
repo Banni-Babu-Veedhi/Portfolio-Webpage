@@ -1,2 +1,2 @@
 # Portfolio-Webpage
-Purpose of the this web site is to showcase the my Professional qualifications, skills and projects and about me etc....
+My Portfolio Website showcases my professional qualifications, technical skills, and projects along with my contact details. It serves as a platform for potential employers or clients to learn more about me and my capabilities. Developed by me, it's both informative and visually appealing, creating an optimal user experience for visitors. Whether you're interested in my work history or are in need of my services, my Portfolio Website should provide all the information you need in a clear and concise manner.
