@@ -1,0 +1,400 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navitem1 {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "Arial";
+}
+
+#navitem2 {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "Arial";
+}
+
+#navitem3 {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "Arial";
+}
+
+#navitem4 {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "Arial";
+}
+
+#navitem5 {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "Arial";
+}
+
+#navitem6 {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "Arial";
+}
+
+.log {
+    color: #ffffff;
+    border-width: 2px;
+    border-color: #4b6cc1;
+    border-style: solid;
+    font-size: 25px;
+    border-radius: 2px;
+}
+
+.homepage-background-design-1 {
+    background-color: #191a1d;
+    height: 100vh;
+    background-size: cover;
+}
+
+.homepage-image-design-1 {
+    border-radius: 8px;
+}
+
+.homepage-heading-design-1 {
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: normal;
+    font-family: "Roboto";
+}
+
+.homepage-heading-design-2 {
+    color: #4b6cc1;
+    font-size: 28px;
+    font-weight: normal;
+    font-family: "Roboto";
+}
+
+.homepage-para-design-1 {
+    color: #9aa5b1;
+    font-size: 24px;
+    font-weight: normal;
+    font-family: "Roboto";
+}
+
+.homepage-button-design-1 {
+    color: #ffffff;
+    background-color: #4b6cc1;
+    border-radius: 7px;
+    font-family: "Arial";
+    border-color: #4b6cc1;
+}
+
+.services-page {
+    background-color: #52606d;
+
+    background-size: cover;
+}
+
+.services-page-size {
+    height: 64px;
+    width: 64px;
+}
+
+.services-page-heading-1 {
+    color: #cced00;
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.services-page-heading-2 {
+    color: #ffffff;
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.services-page-card-heading-1 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.services-page-card-para-1 {
+    color: #9aa5b1;
+    font-family: "Roboto";
+
+    font-size: 18px;
+}
+
+.services-page-card-background-design-1 {}
+
+.services-page-card-space-design-1 {
+    background-color: #323f4b;
+    border-radius: 8px;
+}
+
+.projects-page-background-design {
+    background-color: #3e4c59;
+}
+
+.projects-page-heading-design-1 {
+    color: #cced00;
+    font-weight: 600;
+    font-family: "Roboto";
+    font-size: 24px;
+}
+
+.projects-page-heading-design-2 {
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Roboto";
+    font-size: 28px;
+}
+
+.projects-page-card-image-design-1 {
+    width: 100%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.projects-page-card-heading-design-1 {
+    color: #9aa5b1;
+    font-weight: normal;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.projects-page-card-heading-design-2 {
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Roboto";
+    font-size: 28px;
+}
+
+.projects-page-card-ViewALL-design-1 {
+    color: #cced00;
+    font-weight: normal;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.projects-page-card-background-design-1 {
+    background-color: #323f4b;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.skill-page-background-design-1 {
+    background-color: #1f2933;
+}
+
+.skill-page-heading-design-1 {
+    color: #cced00;
+    font-weight: 600;
+    font-size: 24px;
+    font-family: "Roboto";
+}
+
+.skill-page-card-design-1 {
+    background-color: #323f4b;
+    border-radius: 4px;
+}
+
+.skill-page-card-image-design-1 {
+    height: 64px;
+    width: 64px;
+}
+
+.skill-page-card-heading-design-1 {
+    color: #ffffff;
+    font-weight: normal;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.aboutme-page-background-design-1 {
+    background-color: #323f4b;
+}
+
+.aboutme-page-image-design-1 {
+    border-radius: 6px;
+
+}
+
+.aboutme-page-heading-design-1 {
+    color: #cced00;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: "Roboto";
+}
+
+.aboutme-page-heading-design-2 {
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+.aboutme-page-para-design-1 {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: "Roboto";
+}
+
+.skill-page-card-image-design-2 {
+    border-radius: 8px;
+}
+
+.work-done-page {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+}
+
+.work-done-icon {
+    height: 64px;
+    width: 64px;
+}
+
+.work-done-page-heading-1 {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: "Arial";
+}
+
+.work-done-page-para-1 {
+    font-size: 18px;
+    font-weight: normal;
+    font-family: "Arial";
+}
+
+.work-done-page-line-1 {
+    font-weight: 900;
+    width: 70px;
+}
+
+.copy-rights-page-background-design-1 {
+    background-color: #001c32;
+}
+
+.copy-rights-page-icon-design-1 {
+    color: #5a7184;
+    font-size: 20px;
+    height: 22px;
+    width: 22px;
+    font-weight: 900;
+}
+
+.copy-rights-page-icon-heading-design-1 {
+    color: #9aa5b1;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.address-page-background-design-1 {
+    background-color: #0d2436;
+    width: 100%;
+}
+
+.address-page-image-design-1 {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.address-page-heading-design-1 {
+    color: #cced00;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.address-page-Para-design-1 {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Arial";
+}
+
+.address-page-icon-heading-design-1 {
+    color: #9aa5b1;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.icon-1 {
+    font-size: 15px;
+    color: #5a7184;
+}
+
+.address-page-icon-heading-design-2 {
+    color: #9aa5b1;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.icon-3 {
+    font-size: 27px;
+    color: #5a7184;
+}
+
+.icon-3-design-1 {
+    background-color: #9aa5b1;
+    height: 47px;
+    width: 47px;
+    border-radius: 40px;
+    padding-top: 11px;
+    padding-left: 11px;
+    margin-right: 12px;
+}
+
+.testimonial-page-background-design-1 {
+    background-color: #1f2933;
+    background-size: cover;
+}
+
+.testimonials-page-heading-1 {
+    color: #cced00;
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.testimonials-page-heading-2 {
+    color: #ffffff;
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.carousel-slide-1 {
+    background-color: #323f4b;
+}
+
+.carousel-slide-2 {
+    background-color: #323f4b;
+
+}
+
+.carousel-slide-3 {
+    background-color: #323f4b;
+}
+
+.testimonials-page-card-para-1 {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-family: "Arial";
+}
+
+.testimonials-page-card-para-2 {
+    color: #ffffff;
+    font-size: 21px;
+    font-family: normal;
+    font-family: "Arial";
+}
+
+.testimonials-page-card-image-1 {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: 15px;
+}
